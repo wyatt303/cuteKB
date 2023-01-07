@@ -1,0 +1,7 @@
+cuteKB.sqlite
+.qmake.stash
+*.pro.user
+build-*
+/src/ui_*.h
+/src/Makefile*
+.vs

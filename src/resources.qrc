@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ico/new.png</file>
+        <file>ico/settings.png</file>
+        <file>ico/database32.png</file>
+        <file>ico/edit.png</file>
+        <file>ico/disk.png</file>
+        <file>ico/arrow-curve.png</file>
+        <file>ico/arrow-curve-180.png</file>
+        <file>ico/document-copy.png</file>
+        <file>ico/scissors.png</file>
+        <file>ico/clipboard.png</file>
+        <file>ico/edit-bold.png</file>
+        <file>ico/edit-italic.png</file>
+        <file>ico/remove.png</file>
+        <file>ico/keyboard.png</file>
+        <file>ico/connected.png</file>
+        <file>ico/disconnected.png</file>
+        <file>ico/arrow-circle-double.png</file>
+        <file>ico/question.png</file>
+        <file>ico/edit-code.png</file>
+        <file>ico/image.png</file>
+        <file>ico/table.png</file>
+        <file>ico/card-address.png</file>
+        <file>ico/table32.png</file>
+        <file>ico/paper-clip.png</file>
+    </qresource>
+    <qresource prefix="/styles">
+        <file>css/github.css</file>
+        <file>css/github.txt</file>
+        <file>css/syntax.html</file>
+    </qresource>
+</RCC>
